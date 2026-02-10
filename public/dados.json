@@ -1,0 +1,658 @@
+{
+    "oltsCentral": [
+        {
+            "oltCentralNet": "centralnet",
+            "cto": "Cto/Sao",
+            "pon": 0,
+            "vlan": 2000
+        },
+        {
+            "oltCentralNet": "centralnet",
+            "cto": "Cto/Cha",
+            "pon": 0,
+            "vlan": 2016
+        },
+        {
+            "oltCentralNet": "centralnet",
+            "cto": "Cto/Sao",
+            "pon": 1,
+            "vlan": 2001
+        },
+        {
+            "oltCentralNet": "centralnet",
+            "cto": "Cto/Cha",
+            "pon": 1,
+            "vlan": 2017
+        },
+        {
+            "oltCentralNet": "centralnet",
+            "cto": "Cto/Sao",
+            "pon": 2,
+            "vlan": 2002
+        },
+        {
+            "oltCentralNet": "centralnet",
+            "cto": "Cto/Cha",
+            "pon": 2,
+            "vlan": 2018
+        },
+        {
+            "oltCentralNet": "centralnet",
+            "cto": "Cto/Coh",
+            "pon": 3,
+            "vlan": 2003
+        },
+        {
+            "oltCentralNet": "centralnet",
+            "cto": "Cto/Cha",
+            "pon": 3,
+            "vlan": 2019
+        },
+        {
+            "oltCentralNet": "centralnet",
+            "cto": "Cto/Coh",
+            "pon": 4,
+            "vlan": 2004
+        },
+        {
+            "oltCentralNet": "centralnet",
+            "cto": "Cto/Cha",
+            "pon": 4,
+            "vlan": 2020
+        },
+        {
+            "oltCentralNet": "centralnet",
+            "cto": "Cto/Coh",
+            "pon": 5,
+            "vlan": 2005
+        },
+        {
+            "oltCentralNet": "centralnet",
+            "cto": "Cto/Cha",
+            "pon": 5,
+            "vlan": 2021
+        },
+        {
+            "oltCentralNet": "centralnet",
+            "cto": "Cto/coh",
+            "pon": 6,
+            "vlan": 2006
+        },
+        {
+            "oltCentralNet": "centralnet",
+            "cto": "Cto/Cha",
+            "pon": 6,
+            "vlan": 2022
+        },
+        {
+            "oltCentralNet": "centralnet",
+            "cto": "Cto/Coh",
+            "pon": 7,
+            "vlan": 2007
+        },
+        {
+            "oltCentralNet": "centralnet",
+            "cto": "Cto/Cha",
+            "pon": 7,
+            "vlan": 2023
+        },
+        {
+            "oltCentralNet": "centralnet",
+            "cto": "Cto/Coh",
+            "pon": 8,
+            "vlan": 2008
+        },
+        {
+            "oltCentralNet": "centralnet",
+            "cto": "Cto/Cha",
+            "pon": 8,
+            "vlan": 2024
+        },
+        {
+            "oltCentralNet": "centralnet",
+            "cto": "Cto/Coh",
+            "pon": 9,
+            "vlan": 2009
+        },
+        {
+            "oltCentralNet": "centralnet",
+            "cto": "Cto/Cha",
+            "pon": 9,
+            "vlan": 2025
+        },
+        {
+            "oltCentralNet": "centralnet",
+            "cto": "Cto/Coh",
+            "pon": 10,
+            "vlan": 2010
+        },
+        {
+            "oltCentralNet": "centralnet",
+            "cto": "Cto/Cha",
+            "pon": 10,
+            "vlan": 2026
+        },
+        {
+            "oltCentralNet": "centralnet",
+            "cto": "Cto/Cab",
+            "pon": 11,
+            "vlan": 2011
+        },
+        {
+            "oltCentralNet": "centralnet",
+            "cto": "Cto/Cab",
+            "pon": 12,
+            "vlan": 2012
+        },
+        {
+            "oltCentralNet": "centralnet",
+            "cto": "Cto/Cab",
+            "pon": 13,
+            "vlan": 2013
+        },
+        {
+            "oltCentralNet": "centralnet",
+            "cto": "Cto/Cab",
+            "pon": 14,
+            "vlan": 2014
+        },
+        {
+            "oltCentralNet": "centralnet",
+            "cto": "Cto/Cha",
+            "pon": 15,
+            "vlan": 2015
+        },
+        {
+            "oltCentralNet": "santamaria",
+            "cto": "Cto/Sta",
+            "pon": 1,
+            "vlan": 1181
+        },
+        {
+            "oltCentralNet": "santamaria",
+            "cto": "Cto/Sta",
+            "pon": 2,
+            "vlan": 1.1182
+        },
+        {
+            "oltCentralNet": "santamaria",
+            "cto": "Cto/Sta",
+            "pon": 3,
+            "vlan": 1183
+        },
+        {
+            "oltCentralNet": "santamaria",
+            "cto": "Cto/Sta",
+            "pon": 4,
+            "vlan": 1184
+        },
+        {
+            "oltJoaoAlfredo": "joaoalfredo",
+            "cto": "Cto/Ja",
+            "pon": 0,
+            "vlan": 3050
+        },
+        {
+            "oltJoaoAlfredo": "joaoalfredo",
+            "cto": "Cto/Ja",
+            "pon": 1,
+            "vlan": 3051
+        },
+        {
+            "oltJoaoAlfredo": "joaoalfredo",
+            "cto": "Cto/Ja",
+            "pon": 2,
+            "vlan": 3052
+        },
+        {
+            "oltJoaoAlfredo": "joaoalfredo",
+            "cto": "Cto/Ja",
+            "pon": 3,
+            "vlan": 3053
+        },
+        {
+            "oltJoaoAlfredo": "joaoalfredo",
+            "cto": "Cto/Ja",
+            "pon": 4,
+            "vlan": 3054
+        },
+        {
+            "oltJoaoAlfredo": "joaoalfredo",
+            "cto": "Cto/Ja",
+            "pon": 5,
+            "vlan": 3055
+        },
+        {
+            "oltJoaoAlfredo": "joaoalfredo",
+            "cto": "Cto/Ja",
+            "pon": 6,
+            "vlan": 3056
+        },
+        {
+            "oltVertentes": "vertentes",
+            "cto": "Cto/Ver",
+            "pon": 0,
+            "vlan": 3070
+        },
+        {
+            "oltVertentes": "vertentes",
+            "cto": "Cto/Ver",
+            "pon": 1,
+            "vlan": 3071
+        },
+        {
+            "oltVertentes": "vertentes",
+            "cto": "Cto/Ver",
+            "pon": 2,
+            "vlan": 3072
+        },
+        {
+            "oltVertentes": "vertentes",
+            "cto": "Cto/Ver",
+            "pon": 3,
+            "vlan": 3073
+        },
+        {
+            "oltVertentes": "vertentes",
+            "cto": "Cto/Ver",
+            "pon": 4,
+            "vlan": 3074
+        },
+        {
+            "oltVertentes": "vertentes",
+            "cto": "Cto/Ver",
+            "pon": 5,
+            "vlan": 3075
+        },
+        {
+            "oltVertentes": "vertentes",
+            "cto": "Cto/Ver",
+            "pon": 6,
+            "vlan": 3076
+        },
+        {
+            "oltVertentes": "vertentes",
+            "cto": "Cto/Ver",
+            "pon": 7,
+            "vlan": 3077
+        },
+        {
+            "oltVertentes": "vertentes",
+            "cto": "Cto/Ver",
+            "pon": 8,
+            "vlan": 3078
+        },
+        {
+            "oltVertentes": "vertentes",
+            "cto": "Cto/Ver",
+            "pon": 9,
+            "vlan": 3079
+        },
+        {
+            "oltVertentes": "vertentes",
+            "cto": "Cto/Ver",
+            "pon": 10,
+            "vlan": 3080
+        },
+        {
+            "oltBaraunas": "baraunas",
+            "cto": "Cto/Coq",
+            "pon": 0,
+            "vlan": 2070
+        },
+        {
+            "oltBaraunas": "baraunas",
+            "cto": "Cto/Coq",
+            "pon": 1,
+            "vlan": 2071
+        },
+        {
+            "oltBaraunas": "baraunas",
+            "cto": "Cto/Coq",
+            "pon": 2,
+            "vlan": 2072
+        },
+        {
+            "oltBaraunas": "baraunas",
+            "cto": "Cto/Coq",
+            "pon": 3,
+            "vlan": 2073
+        },
+        {
+            "oltBaraunas": "baraunas",
+            "cto": "Cto/Coq",
+            "pon": 4,
+            "vlan": 2074
+        },
+        {
+            "oltBaraunas": "baraunas",
+            "cto": "Cto/Coq",
+            "pon": 5,
+            "vlan": 2075
+        },
+        {
+            "oltBaraunas": "baraunas",
+            "cto": "Cto/Bar",
+            "pon": 7,
+            "vlan": 2077
+        },
+        {
+            "oltBaraunas": "baraunas",
+            "cto": "Cto/Bar",
+            "pon": 8,
+            "vlan": 2078
+        },
+        {
+            "oltBaraunas": "baraunas",
+            "cto": "Cto/Bar",
+            "pon": 9,
+            "vlan": 2079
+        },
+        {
+            "oltBaraunas": "baraunas",
+            "cto": "Cto/Bar",
+            "pon": 10,
+            "vlan": 2080
+        },
+        {
+            "oltBaraunas": "baraunas",
+            "cto": "Cto/Bar",
+            "pon": 11,
+            "vlan": 2081
+        },
+        {
+            "oltCentro": "centro",
+            "cto": "Cto/Cen",
+            "pon": 0,
+            "vlan": 2030
+        },
+        {
+            "oltCentro": "centro",
+            "cto": "Cto/Cen",
+            "pon": 1,
+            "vlan": 2031
+        },
+        {
+            "oltCentro": "centro",
+            "cto": "Cto/Cen",
+            "pon": 2,
+            "vlan": 2032
+        },
+        {
+            "oltCentro": "centro",
+            "cto": "Cto/Cen",
+            "pon": 3,
+            "vlan": 2033
+        },
+        {
+            "oltCentro": "centro",
+            "cto": "Cto/Cen",
+            "pon": 4,
+            "vlan": 2034
+        },
+        {
+            "oltCentro": "centro",
+            "cto": "Cto/Lag",
+            "pon": 5,
+            "vlan": 2055
+        },
+        {
+            "oltCentro": "centro",
+            "cto": "Cto/Cen",
+            "pon": 6,
+            "vlan": 2036
+        },
+        {
+            "oltCentro": "centro",
+            "cto": "Cto/Cen",
+            "pon": 7,
+            "vlan": 2037
+        },
+        {
+            "oltCentro": "centro",
+            "cto": "Cto/Cen",
+            "pon": 8,
+            "vlan": 2038
+        },
+        {
+            "oltCentro": "centro",
+            "cto": "Cto/Cen",
+            "pon": 9,
+            "vlan": 2039
+        },
+        {
+            "oltCentro": "centro",
+            "cto": "Cto/Cen",
+            "pon": 10,
+            "vlan": 2040
+        },
+        {
+            "oltCentro": "centro",
+            "cto": "Cto/Cen",
+            "pon": 11,
+            "vlan": 2041
+        },
+        {
+            "oltCentro": "centro",
+            "cto": "Cto/Cen",
+            "pon": 12,
+            "vlan": 2042
+        },
+        {
+            "oltCentro": "centro",
+            "cto": "Cto/Cen",
+            "pon": 13,
+            "vlan": 2043
+        },
+        {
+            "oltCentro": "centro",
+            "cto": "Cto/Dio",
+            "pon": 14,
+            "vlan": 2044
+        },
+        {
+            "oltCentro": "centro",
+            "cto": "Cto/Rda",
+            "pon": 15,
+            "vlan": 2045
+        },
+        {
+            "oltVertenteLerio": "vertentelerio",
+            "cto": "Cto/Vdl",
+            "pon": 1,
+            "vlan": 1151
+        },
+        {
+            "oltVertenteLerio": "vertentelerio",
+            "cto": "Cto/Vdl",
+            "pon": 2,
+            "vlan": 1152
+        },
+        {
+            "oltVertenteLerio": "vertentelerio",
+            "cto": "Cto/Vdl",
+            "pon": 3,
+            "vlan": 1153
+        },
+        {
+            "oltVertenteLerio": "vertentelerio",
+            "cto": "Cto/Vdl",
+            "pon": 4,
+            "vlan": 1154
+        },
+        {
+            "oltVertenteLerio": "vertentelerio",
+            "cto": "Cto/Vdl",
+            "pon": 5,
+            "vlan": 1155
+        },
+        {
+            "oltLagoaVaca": "lagoavaca",
+            "cto": "Cto/Lv",
+            "pon": 1,
+            "vlan": 2091
+        },
+        {
+            "oltLagoaVaca": "lagoavaca",
+            "cto": "Cto/Lv/Fur",
+            "pon": 2,
+            "vlan": 2092
+        },
+        {
+            "oltLagoaVaca": "lagoavaca",
+            "cto": "Cto/Caj/Fur",
+            "pon": 3,
+            "vlan": 2093
+        },
+        {
+            "oltLagoaVaca": "lagoavaca",
+            "cto": "Cto/Ban",
+            "pon": 4,
+            "vlan": 2094
+        },
+        {
+            "oltLagoaVaca": "lagoavaca",
+            "cto": "Cto/Lv",
+            "pon": 5,
+            "vlan": 2095
+        },
+        {
+            "oltLagoaVaca": "lagoavaca",
+            "cto": "Cto/Lv",
+            "pon": 6,
+            "vlan": 2096
+        },
+        {
+            "oltLagoaVaca": "lagoavaca",
+            "cto": "Cto/Lv",
+            "pon": 7,
+            "vlan": 2097
+        },
+        {
+            "oltTambor": "tambor",
+            "cto": "Cto/Tam",
+            "pon": 1,
+            "vlan": 911
+        },
+        {
+            "oltTambor": "tambor",
+            "cto": "Cto/Tam",
+            "pon": 2,
+            "vlan": 912
+        },
+        {
+            "oltTambor": "tambor",
+            "cto": "Cto/Tam",
+            "pon": 3,
+            "vlan": 913
+        },
+        {
+            "oltTambor": "tambor",
+            "cto": "Cto/Caz",
+            "pon": 4,
+            "vlan": 914
+        },
+        {
+            "oltEncruzilhada": "encruzilhada",
+            "cto": "Cto/Enc",
+            "pon": 1,
+            "vlan": 3061
+        },
+        {
+            "oltEncruzilhada": "encruzilhada",
+            "cto": "Cto/Enc",
+            "pon": 2,
+            "vlan": 3062
+        },
+        {
+            "oltEncruzilhada": "encruzilhada",
+            "cto": "Cto/Enc",
+            "pon": 3,
+            "vlan": 3063
+        },
+        {
+            "oltMimoso": "mimoso",
+            "cto": "Cto/Mim",
+            "pon": 1,
+            "vlan": 1
+        },
+        {
+            "oltMimoso": "mimoso",
+            "cto": "Cto/CaP",
+            "pon": 3,
+            "vlan": 1143
+        },
+        {
+            "oltMimoso": "mimoso",
+            "cto": "Cto/CaP",
+            "pon": 4,
+            "vlan": 1144
+        },
+        {
+            "oltJunco": "junco",
+            "cto": "Cto/Cju",
+            "pon": 1,
+            "vlan": 3091
+        },
+        {
+            "oltJunco": "junco",
+            "cto": "Cto/Jun",
+            "pon": 2,
+            "vlan": 3092
+        },
+        {
+            "oltJunco": "junco",
+            "cto": "Cto/Jun",
+            "pon": 3,
+            "vlan": 3093
+        },
+        {
+            "oltBarraOnca": "barraonca",
+            "cto": "Cto/Juc",
+            "pon": 1,
+            "vlan": 1191
+        },
+        {
+            "oltBarraOnca": "barraonca",
+            "cto": "Cto/Bon",
+            "pon": 2,
+            "vlan": 1192
+        },
+        {
+            "oltBarraOnca": "barraonca",
+            "cto": "Cto/Bon",
+            "pon": 3,
+            "vlan": 1193
+        },
+        {
+            "oltBarraOnca": "barraonca",
+            "cto": "Cto/Juc",
+            "pon": 4,
+            "vlan": 1194
+        },
+        {
+            "oltCapivara": "capivara",
+            "cto": "Cto/Lau/Lme/Pes/Svd",
+            "pon": 4,
+            "vlan": 814
+        },
+        {
+            "oltTatus": "tatus",
+            "cto": "Cto/Tat",
+            "pon": 1,
+            "vlan": 3001
+        },
+        {
+            "oltTatus": "tatus",
+            "cto": "Cto/Tat",
+            "pon": 2,
+            "vlan": 3002
+        },
+        {
+            "oltTatus": "tatus",
+            "cto": "Cto/Tat",
+            "pon": 3,
+            "vlan": 3003
+        }
+    ]
+}
