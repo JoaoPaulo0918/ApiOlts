@@ -295,6 +295,27 @@
             "vlan": 3080
         },
         {
+            "oltVertentes": "vertentes",
+            "cto": "Cto/Ver",
+            "pon": 11,
+            "vlan": 3081
+        },{
+            "oltVertentes": "vertentes",
+            "cto": "Cto/Ver",
+            "pon": 12,
+            "vlan": 3082
+        },{
+            "oltVertentes": "vertentes",
+            "cto": "Cto/Ver",
+            "pon": 13,
+            "vlan": 3083
+        },{
+            "oltVertentes": "vertentes",
+            "cto": "Cto/Ver",
+            "pon": 14,
+            "vlan": 308
+        },
+        {
             "oltBaraunas": "baraunas",
             "cto": "Cto/Coq",
             "pon": 0,
